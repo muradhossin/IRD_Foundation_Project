@@ -14,7 +14,9 @@ IRD Foundation Intern Flutter Developer Skill Test.
   <img src="images/screenshots/photo_2023-02-03_10-54-58.jpg" width="256" hspace="4">
 </p>
 
+## Figma Design Link
 
+[click here](https://www.figma.com/file/d6wSu91ZIszLJlD5H4hUoN/Intern-Developer-(Copy)?node-id=0%3A1&t=SSO2zzzSFxu63Z7I-1)
 ## Setup
 
 Clone the repository
