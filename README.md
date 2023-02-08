@@ -1,7 +1,7 @@
 
 # Figma to Flutter Code
 
-IRD Foundation Intern Flutter Developer Skill Test. 
+This is an assignment app from IRD Foundation. The task is: Pixel Perfect Figma to Flutter code and Reminder Task will be slideable and All Task will be scrollable.
 ## Screenshots
 
 ### Figma Desgin
